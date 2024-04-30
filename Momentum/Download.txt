@@ -1,0 +1,18 @@
+How do i download Momentum Firmware?
+
+1. Make sure to have qFlipper (https://flipperzero.one/update)
+
+2. Open https://github.com/Next-Flip/Momentum-Firmware/releases/tag/mntm-001
+
+3. Download firmware using "qFlipper Package (.tgz)"
+
+4. Open qFlipper and connect your Flipper Zero (With cables)
+
+5. Click "Install from file", and find the file you just downloaded (Step 3)
+
+6. Wait
+
+7. You now have Momentum Firmware
+
+
+https://discord.gg/CXSUDfSMSH
